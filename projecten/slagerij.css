@@ -1,0 +1,52 @@
+/*
+* BG: #FCFAEE  - soft white
+* MAIN: #CB6040 - orange red
+* SEC : #0b32b3 - new blue 2024
+* BLACK: #3F3230 - rust black
+*/
+
+
+
+body
+{
+  background-color: #FCFAEE;
+  color: #3F3230;
+}
+
+h1, h2
+{
+  color: #CB6040;
+}
+
+h3
+{
+  color: #0b32b3;
+}
+
+.navigation
+{
+  background-color: #0b32b3;
+  color: #FCFAEE;
+}
+
+.navigation a
+{
+  color: #FCFAEE;
+}
+
+blockquote
+{
+  background-color: #CB6040;
+  color: #FCFAEE;
+}
+
+blockquote a
+{
+  color: #FCFAEE;
+}
+
+/* new blue 2024 shadow */
+q
+{
+  color: #485fad;
+}
